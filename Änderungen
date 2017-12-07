@@ -3,16 +3,16 @@
 Änderungen
 
 1. Texte: - Text, der den Finalen Score anzeigt                                                                                                                             
-                 - Text, der Anzeigt, die wievielte Wave als nächstes kommt
+          - Text, der Anzeigt, die wievielte Wave als nächstes kommt
 
 2. Hinzufügen von 2 weiteren Asteroiden Typen, wobei alle drei 
-    Asteroidentypen  unterschiedlich schnell sind und unterschiedlich viele   
-    Punkte geben.
+   Asteroidentypen  unterschiedlich schnell sind und unterschiedlich viele   
+   Punkte geben.
 
 3. Bewegender Hintergrund (Starfield + Background).
 
 4. Hinzufügen von Gegnerschiffen (inklusive Schüssen).
 
 5. Erhöhen der Schwierigkeit bei jeder neuen wave, indem die Geschwindigkeit 
-     Der Asteorieden bzw. der Gegnerschiffen und die Firerate der Gegnerschiffe 
-     erhöt wird.
+   Der Asteorieden bzw. der Gegnerschiffen und die Firerate der Gegnerschiffe 
+   erhöt wird.
