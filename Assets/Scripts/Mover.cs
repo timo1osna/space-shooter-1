@@ -7,7 +7,7 @@ public class Mover : MonoBehaviour
 
     void Start()
     {
-        GetComponent<Rigidbody>().velocity = transform.forward * speed;
+		GetComponent<Rigidbody>().velocity = transform.forward * speed * GameController.instance.difficulty;
     }
 
 }

@@ -42,7 +42,7 @@ GameObject:
   - component: {fileID: 114284921681367910}
   - component: {fileID: 114424883793662844}
   m_Layer: 0
-  m_Name: Asteroid
+  m_Name: Asteroid 1
   m_TagString: Enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   explosion: {fileID: 100004, guid: 2857e183f4cd3df4e9096e5b578bd32f, type: 2}
   playerExplosion: {fileID: 100008, guid: a93496017806b7740910df5fd946f306, type: 2}
-  scoreValue: 10
+  scoreValue: 8
 --- !u!114 &114424883793662844
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -156,7 +156,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5c1d45cb3aad83b43873c34b171dedb7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  speed: -5
+  speed: -2.5
 --- !u!114 &114713168827691784
 MonoBehaviour:
   m_ObjectHideFlags: 1
